@@ -1,1 +1,1 @@
-# leagueoflegendsstats.com
+leagueoflegendsstats.github.io
